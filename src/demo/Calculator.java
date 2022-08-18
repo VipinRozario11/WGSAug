@@ -9,8 +9,10 @@ public class Calculator {
         Math.add(22, 67);
 
         Math.add(65, 89, 43);
+        
+        Math.sub(10 , 5);
 
-        System.out.println("Multiplication");
+       
 		}
 
 }
